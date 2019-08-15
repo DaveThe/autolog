@@ -1,0 +1,5 @@
+obd==0.7.1
+pandas==0.25
+pyfiglet==0.8.post1
+PyInquirer==1.0.3
+PyBluez==0.22
